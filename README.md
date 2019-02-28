@@ -6,3 +6,5 @@ Une demo de git
 Et quand je refais ça marche encore !
 
 Et maintenant on modifie depuis github
+
+Mais aussi depuis mon ordi local
